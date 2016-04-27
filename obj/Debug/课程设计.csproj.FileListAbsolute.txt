@@ -1,0 +1,64 @@
+c:\users\inspiron 7000\documents\visual studio 2013\Projects\课程设计\课程设计\bin\Debug\课程设计.exe.config
+c:\users\inspiron 7000\documents\visual studio 2013\Projects\课程设计\课程设计\bin\Debug\课程设计.exe
+c:\users\inspiron 7000\documents\visual studio 2013\Projects\课程设计\课程设计\bin\Debug\课程设计.pdb
+c:\users\inspiron 7000\documents\visual studio 2013\Projects\课程设计\课程设计\obj\Debug\课程设计.main_window.resources
+c:\users\inspiron 7000\documents\visual studio 2013\Projects\课程设计\课程设计\obj\Debug\课程设计.Properties.Resources.resources
+c:\users\inspiron 7000\documents\visual studio 2013\Projects\课程设计\课程设计\obj\Debug\课程设计.csproj.GenerateResource.Cache
+c:\users\inspiron 7000\documents\visual studio 2013\Projects\课程设计\课程设计\obj\Debug\课程设计.exe
+c:\users\inspiron 7000\documents\visual studio 2013\Projects\课程设计\课程设计\obj\Debug\课程设计.pdb
+C:\Users\inspiron 7000\Documents\Visual Studio 2013\Projects\课程设计\课程设计\obj\Debug\课程设计.logins.resources
+C:\Users\inspiron 7000\Documents\Visual Studio 2013\Projects\课程设计\课程设计\obj\Debug\课程设计.seat_choose.resources
+C:\Users\inspiron 7000\documents\visual studio 2013\Projects\课程设计\课程设计\obj\Debug\课程设计.csprojResolveAssemblyReference.cache
+C:\Users\inspiron 7000\documents\visual studio 2013\Projects\课程设计\课程设计\obj\Debug\课程设计.info_input.resources
+C:\Users\inspiron 7000\Desktop\课程设计\bin\Debug\课程设计.exe.config
+C:\Users\inspiron 7000\Desktop\课程设计\obj\Debug\课程设计.exe
+C:\Users\inspiron 7000\Desktop\课程设计\obj\Debug\课程设计.pdb
+C:\Users\inspiron 7000\Desktop\课程设计\obj\Debug\课程设计.info_input.resources
+C:\Users\inspiron 7000\Desktop\课程设计\obj\Debug\课程设计.logins.resources
+C:\Users\inspiron 7000\Desktop\课程设计\obj\Debug\课程设计.main_window.resources
+C:\Users\inspiron 7000\Desktop\课程设计\obj\Debug\课程设计.Properties.Resources.resources
+C:\Users\inspiron 7000\Desktop\课程设计\obj\Debug\课程设计.seat_choose.resources
+C:\Users\inspiron 7000\Desktop\课程设计\obj\Debug\课程设计.csproj.GenerateResource.Cache
+C:\Users\inspiron 7000\Desktop\课程设计\bin\Debug\课程设计.exe
+C:\Users\inspiron 7000\Desktop\课程设计\bin\Debug\课程设计.pdb
+C:\Users\inspiron 7000\Desktop\课程设计\bin\Debug\课程设计.exe.CodeAnalysisLog.xml
+C:\Users\inspiron 7000\Desktop\课程设计\bin\Debug\课程设计.exe.lastcodeanalysissucceeded
+E:\share—vm\课程设计\bin\Debug\课程设计.exe.config
+E:\share—vm\课程设计\obj\Debug\课程设计.exe
+E:\share—vm\课程设计\obj\Debug\课程设计.pdb
+E:\share—vm\课程设计\bin\Debug\课程设计.exe
+E:\share—vm\课程设计\bin\Debug\课程设计.pdb
+E:\share—vm\课程设计\obj\Debug\课程设计.info_input.resources
+E:\share—vm\课程设计\obj\Debug\课程设计.main_window.resources
+E:\share—vm\课程设计\obj\Debug\课程设计.Properties.Resources.resources
+E:\share—vm\课程设计\obj\Debug\课程设计.seat_choose.resources
+E:\share—vm\课程设计\obj\Debug\课程设计.csproj.GenerateResource.Cache
+E:\share—vm\课程设计\obj\Debug\课程设计.logins.resources
+E:\share—vm\课程设计\obj\Debug\课程设计.csprojResolveAssemblyReference.cache
+C:\Users\dellpnm\Desktop\课程设计\bin\Debug\课程设计.exe.config
+C:\Users\dellpnm\Desktop\课程设计\obj\Debug\课程设计.exe
+C:\Users\dellpnm\Desktop\课程设计\obj\Debug\课程设计.pdb
+C:\Users\dellpnm\Desktop\课程设计\bin\Debug\课程设计.exe
+C:\Users\dellpnm\Desktop\课程设计\bin\Debug\课程设计.pdb
+C:\Users\dellpnm\Desktop\课程设计\obj\Debug\课程设计.csprojResolveAssemblyReference.cache
+C:\Users\dellpnm\Desktop\课程设计\obj\Debug\课程设计.info_input.resources
+C:\Users\dellpnm\Desktop\课程设计\obj\Debug\课程设计.logins.resources
+C:\Users\dellpnm\Desktop\课程设计\obj\Debug\课程设计.main_window.resources
+C:\Users\dellpnm\Desktop\课程设计\obj\Debug\课程设计.Properties.Resources.resources
+C:\Users\dellpnm\Desktop\课程设计\obj\Debug\课程设计.seat_choose.resources
+C:\Users\dellpnm\Desktop\课程设计\obj\Debug\课程设计.csproj.GenerateResource.Cache
+C:\Users\scripter\Desktop\c#源代码\bin\Debug\课程设计.exe.config
+C:\Users\scripter\Desktop\c#源代码\obj\Debug\课程设计.exe
+C:\Users\scripter\Desktop\c#源代码\obj\Debug\课程设计.pdb
+C:\Users\scripter\Desktop\c#源代码\bin\Debug\课程设计.exe
+C:\Users\scripter\Desktop\c#源代码\bin\Debug\课程设计.pdb
+C:\Users\scripter\Desktop\c#源代码\obj\Debug\课程设计.csprojResolveAssemblyReference.cache
+C:\Users\scripter\Desktop\c#源代码\obj\Debug\课程设计.info_input.resources
+C:\Users\scripter\Desktop\c#源代码\obj\Debug\课程设计.logins.resources
+C:\Users\scripter\Desktop\c#源代码\obj\Debug\课程设计.main_window.resources
+C:\Users\scripter\Desktop\c#源代码\obj\Debug\课程设计.Properties.Resources.resources
+C:\Users\scripter\Desktop\c#源代码\obj\Debug\课程设计.seat_choose.resources
+C:\Users\scripter\Desktop\c#源代码\obj\Debug\课程设计.csproj.GenerateResource.Cache
+F:\datas_share\c#源代码\bin\Debug\课程设计.exe.config
+F:\datas_share\c#源代码\obj\Debug\课程设计.exe
+F:\datas_share\c#源代码\obj\Debug\课程设计.pdb
